@@ -1,0 +1,51 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2V7sh517xvnFanDGKi90V03pm0SDTHCEvaw&usqp=CAU");
+    background-size: cover;
+    opacity: 50px;
+}
+
+
+img{
+    height:70px;
+    width:70px;
+    margin:10px;
+}
+.team1{
+    margin-left:200px;
+    margin-right:600px;
+    margin-top:70px;
+    margin-bottom:100px;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.team2{
+    margin-left:600px;
+    margin-right:200px;
+    margin-top:-430px;
+    margin-bottom:100px;
+    flex-direction: row;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+.main{
+    margin:100px;
+    height:500px;
+    border-color: rgb(174, 230, 174);
+    fill: rgb(174, 241, 174);
+    flex-direction: row;
+    background-color:black;  
+      opacity: 0.7;
+}
+#name1{
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+h1{
+    text-align: center;
+    background-color: brown;
+}
+h2{
+    background-color: burlywood;
+}
+    
